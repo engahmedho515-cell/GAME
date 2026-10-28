@@ -1,0 +1,6 @@
+{
+  "name": "أنقذ شركتك | Rescue Your Company",
+  "description": "لعبة ويب تعليمية تفاعلية لمحاكاة الإدارة والتنظيم الإداري وإصلاح الهياكل التنظيمية للشركات",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
